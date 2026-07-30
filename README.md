@@ -9,7 +9,8 @@ I'm a passionate developer specializing in building scalable backend systems and
 ## 🚀 About Me
 
 - 🎓 **Education:** M.C.A Student at Marwadi University (2024 - 2026)
-- 💼 **Experience:** Former Computer Faculty at Shree Sanskardham School. Currently working as SEO specialist at Trans Globe
+- 💼 **Currently:** SEO Specialist at Trans Globe
+- 📌 **Previously:** Computer Faculty at Shree Sanskardham School
 - 🔭 **Currently working on:** Machine Learning projects and full-stack applications
 - 🌱 **Learning:** Advanced ML algorithms and cloud technologies
 - 💡 **Interests:** Frontend, Backend development, Data Analysis, Automation, Machine Learning,API Development
@@ -49,8 +50,8 @@ I'm a passionate developer specializing in building scalable backend systems and
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
+div align="center">
+
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalBunny07&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalBunny07&layout=compact&theme=radical&hide_border=true)
