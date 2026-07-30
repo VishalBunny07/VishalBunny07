@@ -2,17 +2,17 @@
 
 ### Web Developer | Machine Learning Enthusiast
 
-I'm a passionate developer specializing in building scalable backend systems and data-driven applications. Currently pursuing my M.C.A at Marwadi University, I love solving complex problems through clean, efficient code.
+I'm a passionate developer specializing in building scalable backend systems and data-driven applications. Persued my Master of Computer Applications (MCA) at Marwadi University, I love solving complex problems through clean, efficient code.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Education:** M.C.A Student at Marwadi University (2024 - Present)
-- 💼 **Experience:** Former Computer Faculty at Shree Sanskardham School
+- 🎓 **Education:** M.C.A Student at Marwadi University (2024 - 2026)
+- 💼 **Experience:** Former Computer Faculty at Shree Sanskardham School. Currently working as SEO specialist at Trans Globe
 - 🔭 **Currently working on:** Machine Learning projects and full-stack applications
 - 🌱 **Learning:** Advanced ML algorithms and cloud technologies
-- 💡 **Interests:** Backend development, Data Analysis, Automation, Machine Learning,API Development
+- 💡 **Interests:** Frontend, Backend development, Data Analysis, Automation, Machine Learning,API Development
 - 📫 **Reach me:** vp709523@gmail.com
 - 🌐 **Portfolio:** [vishalpatelportfolio.netlify.app](https://vishalpatelportfolio.netlify.app/)
 
