@@ -50,13 +50,13 @@ I'm a passionate developer specializing in building scalable backend systems and
 
 ## 📈 GitHub Stats
 
-div align="center">
+<div align="center">
 
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalBunny07&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalBunny07&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalBunny07&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VishalBunny07&theme=radical&hide_border=true)
 
 </div>
 
