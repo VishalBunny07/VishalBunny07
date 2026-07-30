@@ -56,7 +56,7 @@ I'm a passionate developer specializing in building scalable backend systems and
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=VishalBunny07&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VishalBunny07&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=VishalBunny07&theme=radical&hide_border=true)
 
 </div>
 
