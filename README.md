@@ -17,6 +17,16 @@ I'm a passionate developer specializing in building scalable backend systems and
 - 📫 **Reach me:** vp709523@gmail.com
 - 🌐 **Portfolio:** [vishalpatelportfolio.netlify.app](https://vishalpatelportfolio.netlify.app/)
 
+- ## 📖 Author
+
+I am the author of **[AI Interview Simulator: A Practical Guide Using React, FastAPI, Python & NLP](https://www.amazon.com/AI-Interview-Simulator-Practical-FastAPI/dp/B0GWFCFZL5)**.
+
+The book documents the development of an AI-powered interview preparation system, covering React, FastAPI, Python, NLP, FLAN-T5, PostgreSQL, resume-based question generation, voice interaction, AI feedback, system architecture, testing, and future enhancements.
+
+📚 **Available on Amazon — Paperback & Kindle**
+
+👉 [Read / Buy the Book on Amazon](https://www.amazon.com/AI-Interview-Simulator-Practical-FastAPI/dp/B0GWFCFZL5)
+
 ---
 
 ## 🛠️ Technical Skills
