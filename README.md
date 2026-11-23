@@ -16,6 +16,7 @@ I'm a passionate developer specializing in building scalable backend systems and
 - 💡 **Interests:** Frontend, Backend development, Data Analysis, Automation, Machine Learning,API Development
 - 📫 **Reach me:** vp709523@gmail.com
 - 🌐 **Portfolio:** [vishalpatelportfolio.netlify.app](https://vishalpatelportfolio.netlify.app/)
+- 🌴 **LinkTree:** [https://linktr.ee/vishalpateldev](https://linktr.ee/vishalpateldev/)
 
 - ## 📖 Author
 
