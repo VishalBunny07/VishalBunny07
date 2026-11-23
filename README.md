@@ -18,7 +18,7 @@ I'm a passionate developer specializing in building scalable backend systems and
 - 🌐 **Portfolio:** [vishalpatelportfolio.netlify.app](https://vishalpatelportfolio.netlify.app/)
 - 🌴 **LinkTree:** [https://linktr.ee/vishalpateldev](https://linktr.ee/vishalpateldev/)
 
-- ## 📖 Author
+## 📖 Author
 
 I am the author of **[AI Interview Simulator: A Practical Guide Using React, FastAPI, Python & NLP](https://www.amazon.com/AI-Interview-Simulator-Practical-FastAPI/dp/B0GWFCFZL5)**.
 
